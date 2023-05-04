@@ -41,7 +41,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.youtube.com/channel/UCRIV6ndalc_mfIdAN_T2sgA"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="mailto:guilherme.parcerao@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="40"></a>
+<a href="https://www.linkedin.com/in/guilherme-parcerao/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.youtube.com/channel/UCNXSWRmoWal0XDF7Zv2DmGg"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="mailto:guilherme.parcerao@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="40"></a>
 |--|--|--|
 
 -----
