@@ -1,6 +1,6 @@
 <h1>Hello, I am Guilherme Parcerão </h1>
 
-I'm a **ASc. in Industrial Automation**, and nowadays I'm pursuing a **Graduate Diploma** in **Internet of Things**. Since I'm in the final track of this one, I also started to pursue a **Computer Engineering** degree. I'm a **Embedded Firmware Architect** specialized in **AIoT** and my everyday work is to architect embedded solutions integrating IoT and AI/ML techniques, and I'm also an enthusiast in themes like mathemathical computing, low-level computing, Linux, open-source, hacking, and the DIY philosophy. I use C and C++ to develop software most times, with occasional Python, mostly to perform mathematical or AI/ML algorithms.
+I'm a **ASc. in Industrial Automation**, and nowadays I'm pursuing a **Graduate Diploma** in **Internet of Things**. Since I'm in the final track of this one, I also started to pursue a **Computer Engineering** degree. I'm a **Intern in Software Analysis and Development** focusing more on **Embedded Systems, IIoT and Edge AI**. I'm also an enthusiast in themes like edge computing, mathemathical computing, low-level computing, Linux, open-source, hacking, and the DIY philosophy. I use C and C++ to develop software most times, with occasional Python, mostly to perform mathematical or AI/ML algorithms.
 
 ## Skill Set
 
